@@ -1,1 +1,40 @@
 # README
+# Hi there!
+I'm Suraj Kumar, passionate Desing Engineer and ML Expert from India.<br>I am passionate about everything  DevOps and all Cloud Native Technologies and tools and give back by contributing to open source and communities.<br> 
+
+## Socials
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-kumar-8471b9214/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kio2suraj@gmail.com)
+ 
+
+## Personal Interests
+📚 Outside of my professional pursuits, I have a passion for reading and exploring the fascinating world of literature. 
+
+
+# 📊 GitHub Stats:
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Surajv0903&show_icons=true&theme=transparent" />
+
+
+
+
+
+
+
+
+
+
+<!--
+**lavishpal/lavishpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
